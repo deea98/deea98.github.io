@@ -1,0 +1,93 @@
+city_name,crime_category,p_type,frequency,population
+Allen,property,burglary ,115,103168
+Allen,property,larceny-theft,1095,103168
+Allen,property,motor vehicle theft,67,103168
+Allen,property,arson,0,103168
+Anna,property,burglary ,22,13579
+Anna,property,larceny-theft,140,13579
+Anna,property,motor vehicle theft,12,13579
+Anna,property,arson,0,13579
+Carrollton,property,burglary ,329,138216
+Carrollton,property,larceny-theft,1755,138216
+Carrollton,property,motor vehicle theft,280,138216
+Carrollton,property,arson,0,138216
+Celina,property,burglary ,19,10559
+Celina,property,larceny-theft,68,10559
+Celina,property,motor vehicle theft,1,10559
+Celina,property,arson,0,10559
+Dallas,property,burglary ,9065,1362465
+Dallas,property,larceny-theft,25541,1362465
+Dallas,property,motor vehicle theft,9660,1362465
+Dallas,property,arson,197,1362465
+Fairview,property,burglary ,5,9220
+Fairview,property,larceny-theft,47,9220
+Fairview,property,motor vehicle theft,1,9220
+Fairview,property,arson,0,9220
+Farmersville,property,burglary ,13,3489
+Farmersville,property,larceny-theft,39,3489
+Farmersville,property,motor vehicle theft,1,3489
+Farmersville,property,arson,0,3489
+Frisco,property,burglary ,245,187889
+Frisco,property,larceny-theft,2179,187889
+Frisco,property,motor vehicle theft,138,187889
+Frisco,property,arson,3,187889
+Garland,property,burglary ,1113,239577
+Garland,property,larceny-theft,4514,239577
+Garland,property,motor vehicle theft,827,239577
+Garland,property,arson,14,239577
+Lavon,property,burglary ,1,3299
+Lavon,property,larceny-theft,26,3299
+Lavon,property,motor vehicle theft,0,3299
+Lavon,property,arson,0,3299
+McKinney,property,burglary ,251,189555
+McKinney,property,larceny-theft,1573,189555
+McKinney,property,motor vehicle theft,156,189555
+McKinney,property,arson,15,189555
+Melissa,property,burglary ,16,10107
+Melissa,property,larceny-theft,41,10107
+Melissa,property,motor vehicle theft,1,10107
+Melissa,property,arson,0,10107
+Murphy,property,burglary ,6,21084
+Murphy,property,larceny-theft,102,21084
+Murphy,property,motor vehicle theft,5,21084
+Murphy,property,arson,1,21084
+Parker,property,burglary,4,4746
+Parker,property,larceny-theft,22,4746
+Parker,property,motor vehicle theft,1,4746
+Parker,property,arson,0,4746
+Plano,property,burglary ,671,289897
+Plano,property,larceny-theft,3911,289897
+Plano,property,motor vehicle theft,373,289897
+Plano,property,arson,16,289897
+Princeton,property,burglary ,14,10749
+Princeton,property,larceny-theft,157,10749
+Princeton,property,motor vehicle theft,12,10749
+Princeton,property,arson,0,10749
+Prosper,property,burglary ,31,22570
+Prosper,property,larceny-theft,154,22570
+Prosper,property,motor vehicle theft,3,22570
+Prosper,property,arson,0,22570
+Richardson,property,burglary ,364,119480
+Richardson,property,larceny-theft,1944,119480
+Richardson,property,motor vehicle theft,214,119480
+Richardson,property,arson,3,119480
+Royse City,property,burglary ,17,13104
+Royse City,property,larceny-theft,101,13104
+Royse City,property,motor vehicle theft,11,13104
+Royse City,property,arson,1,13104
+Sachse,property,burglary,26,26839
+Sachse,property,larceny-theft,167,26839
+Sachse,property,motor vehicle theft,15,26839
+Sachse,property,arson,0,26839
+Van Alstyne,property,burglary,17,4115
+Van Alstyne,property,larceny-theft,40,4115
+Van Alstyne,property,motor vehicle theft,2,4115
+Van Alstyne,property,arson,0,4115
+Wylie,property,burglary,31,51051
+Wylie,property,larceny-theft,347,51051
+Wylie,property,motor vehicle theft,20,51051
+Wylie,property,arson,4,51051
+Yoakum,property,burglary ,18,5983
+Yoakum,property,larceny-theft,30,5983
+Yoakum,property,motor vehicle theft,3,5983
+Yoakum,property,arson,0,5983
